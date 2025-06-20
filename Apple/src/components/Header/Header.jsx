@@ -18,22 +18,22 @@ function Header() {
                 <a href="/mac/">Mac</a>
               </li>
               <li>
-                <a href="#">iPhone</a>
+                <a href="/iphone/">iPhone</a>
               </li>
               <li>
-                <a href="#">iPad</a>
+                <a href="/ipad/">iPad</a>
               </li>
               <li>
-                <a href="#">Watch</a>
+                <a href="/Watch/">Watch</a>
               </li>
               <li>
-                <a href="#">TV</a>
+                <a href="/TV/">TV</a>
               </li>
               <li>
-                <a href="#">Music</a>
+                <a href="/Music/">Music</a>
               </li>
               <li>
-                <a href="#">Support</a>
+                <a href="/support/">Support</a>
               </li>
               <li className="search-link">
                 <a href="/search/">
